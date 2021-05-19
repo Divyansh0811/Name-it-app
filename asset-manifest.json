@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Divyansh0811/Name-it-app/static/css/main.4703e06a.chunk.css",
-    "main.js": "/Divyansh0811/Name-it-app/static/js/main.bbaf0246.chunk.js",
-    "main.js.map": "/Divyansh0811/Name-it-app/static/js/main.bbaf0246.chunk.js.map",
-    "runtime-main.js": "/Divyansh0811/Name-it-app/static/js/runtime-main.3c938e8e.js",
-    "runtime-main.js.map": "/Divyansh0811/Name-it-app/static/js/runtime-main.3c938e8e.js.map",
-    "static/js/2.34b87737.chunk.js": "/Divyansh0811/Name-it-app/static/js/2.34b87737.chunk.js",
-    "static/js/2.34b87737.chunk.js.map": "/Divyansh0811/Name-it-app/static/js/2.34b87737.chunk.js.map",
-    "index.html": "/Divyansh0811/Name-it-app/index.html",
-    "static/css/main.4703e06a.chunk.css.map": "/Divyansh0811/Name-it-app/static/css/main.4703e06a.chunk.css.map",
-    "static/js/2.34b87737.chunk.js.LICENSE.txt": "/Divyansh0811/Name-it-app/static/js/2.34b87737.chunk.js.LICENSE.txt"
+    "main.css": "/Name-it-app/static/css/main.4703e06a.chunk.css",
+    "main.js": "/Name-it-app/static/js/main.bbaf0246.chunk.js",
+    "main.js.map": "/Name-it-app/static/js/main.bbaf0246.chunk.js.map",
+    "runtime-main.js": "/Name-it-app/static/js/runtime-main.3e2ec3c3.js",
+    "runtime-main.js.map": "/Name-it-app/static/js/runtime-main.3e2ec3c3.js.map",
+    "static/js/2.34b87737.chunk.js": "/Name-it-app/static/js/2.34b87737.chunk.js",
+    "static/js/2.34b87737.chunk.js.map": "/Name-it-app/static/js/2.34b87737.chunk.js.map",
+    "index.html": "/Name-it-app/index.html",
+    "static/css/main.4703e06a.chunk.css.map": "/Name-it-app/static/css/main.4703e06a.chunk.css.map",
+    "static/js/2.34b87737.chunk.js.LICENSE.txt": "/Name-it-app/static/js/2.34b87737.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c938e8e.js",
+    "static/js/runtime-main.3e2ec3c3.js",
     "static/js/2.34b87737.chunk.js",
     "static/css/main.4703e06a.chunk.css",
     "static/js/main.bbaf0246.chunk.js"
